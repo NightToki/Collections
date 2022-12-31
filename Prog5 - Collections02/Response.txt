@@ -1,0 +1,6 @@
+The hashmap is faster at printing than the treemap, but it is quicker to load into the treemap than the hashmap.
+I think it is quicker to print the hashmap because it doesnt have to sort the file before printing like a treemap.
+
+The Treeset was faster than the Hashset. However, I think that the hashset should be faster than the tree set because it doesnt have to sort anything
+
+For the last part the hashmap was quicker than the treemap, mainly because it only has to run the calculations without and sorting. 
